@@ -1,0 +1,11 @@
+During this game project development I have learned a lot.
+I think that the most valuable knowledge that I got was reducing amount of time
+by using new methods such as for loops, arrays, object etc. Moreover, I have learned 
+how to deal with issues and that sometimes it is good to start some parts again as
+many times the issue was not suitable name(it could be too long or too many special
+characters were used). I am really proud from my graphics that I have developed such as
+background, mountains.
+My extension is based on more developed game mechanics such as platforms and enemies as
+well as the graphical concept. I have learned more about "this" and how to split the work
+into smaller chunks so functions, objects have their own place in the code.
+Arkadiusz Nowacki.
